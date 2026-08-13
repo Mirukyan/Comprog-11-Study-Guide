@@ -9,15 +9,15 @@ A feature-rich, console-based terminal application written in standard C (C99) d
 
 ## Features
 
-* ** Curriculum Breakdown:**
+*  **Curriculum Breakdown:**
   * **Prelims:** Problem-Solving Process, Flowcharting, Pseudocode, and C Program Structure (`main`, `stdio.h`, `printf`).
   * **Midterm:** Execution Flow, Selection Structures (`if`, `else`, `switch`), and Loops (`for`, `while`, `do-while`).
   * **Semi-Finals:** Function Declarations, Return Types, and Scope (`int`, `void`, `return`).
   * **Finals:** Array Initialization, Bounds, Memory Layout, and Zero-Based Indexing Rules.
-* ** Exam Mode Gate (Option 5):**
+*  **Exam Mode Gate (Option 5):**
   * Evaluates understanding across 6 comprehensive C practice challenges.
   * Tracks accurate scoring; requires **at least 80% (5/6)** to pass and set unlock flags.
-* ** Finale Code Sandbox (Option 6):**
+* **Finale Code Sandbox (Option 6):**
   * Unlocks only after passing Exam Mode.
   * Features live input code parsing that checks syntax requirements for user-written snippets.
 
