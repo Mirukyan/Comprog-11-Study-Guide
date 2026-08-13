@@ -85,12 +85,12 @@ A portable, POSIX-compliant console application written in standard C99, designe
    ```bash
    pkg update && pkg install gcc
 
-### Usage & Progression
+## Usage & Progression
 1. Modules 1–4: Study lesson notes and solve fill-in-the-blank / output challenges.
 2. Module 5 (Exam Mode): Answer all questions. Score $\ge 80\%$ to unlock the Finale.
 3. Module 6 (Sandbox): Practice writing freehand C statements and receive syntax evaluation.
 
-### License & Credits
+## License & Credits
 * Author: Mirukyan
 * GitHub: https://github.com/Mirukyan
 * Version: v1.0.0
