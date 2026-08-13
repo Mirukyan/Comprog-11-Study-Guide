@@ -57,12 +57,12 @@ If you just want to run the application immediately without compiling:
    ```
 
 ### Usage & Progression
-Modules 1–4: Study lesson notes and solve fill-in-the-blank / output challenges.
-Module 5 (Exam Mode): Answer all questions. Score $\ge 80\%$ to unlock the Finale.
-Module 6 (Sandbox): Practice writing freehand C statements and receive syntax evaluation.
+1. Modules 1–4: Study lesson notes and solve fill-in-the-blank / output challenges.
+2. Module 5 (Exam Mode): Answer all questions. Score $\ge 80\%$ to unlock the Finale.
+3. Module 6 (Sandbox): Practice writing freehand C statements and receive syntax evaluation.
 
 ### License & Credits
-Author: Mirukyan
-GitHub: https://github.com/Mirukyan
-Version: v1.0.0
-License: MIT License
+* Author: Mirukyan
+* GitHub: https://github.com/Mirukyan
+* Version: v1.0.0
+* License: MIT License
