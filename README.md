@@ -3,7 +3,7 @@ This is a study guide for our block BSIT 1H on UCLM
 
 # Interactive C Study Guide & Evaluator (v1.0.0)
 
-A feature-rich, console-based terminal application written in standard C (C99) designed to teach C programming fundamentals from **Prelims** to **Finals**. Features typewriter text animations, Windows audio feedback, interactive quiz challenges, diagnostic feedback, and a gated **Code Sandbox Evaluator**.
+A feature-rich, console-based terminal application written in standard C (C99) designed to teach C programming fundamentals from **Prelims** to **Finals**. Features interactive quiz challenges, diagnostic feedback, and a gated **Code Sandbox Evaluator**.
 
 ---
 
