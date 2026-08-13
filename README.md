@@ -54,3 +54,15 @@ If you just want to run the application immediately without compiling:
 5. Compile the program using GCC:
    ```bash
    gcc -std=c99 main.c -o C_Study_Guide.exe
+   ```
+
+### Usage & Progression
+Modules 1–4: Study lesson notes and solve fill-in-the-blank / output challenges.
+Module 5 (Exam Mode): Answer all questions. Score $\ge 80\%$ to unlock the Finale.
+Module 6 (Sandbox): Practice writing freehand C statements and receive syntax evaluation.
+
+### License & Credits
+Author: Mirukyan
+GitHub: https://github.com/Mirukyan
+Version: v1.0.0
+License: MIT License
