@@ -56,6 +56,35 @@ If you just want to run the application immediately without compiling:
    gcc -std=c99 main.c -o C_Study_Guide.exe
    ```
 
+# Interactive C Study Guide & Evaluator (Mobile / CxxDroid Edition)
+
+A portable, POSIX-compliant console application written in standard C99, designed to run smoothly on Android mobile IDEs like **CxxDroid** or terminal environments like **Termux**. Learn C programming fundamentals from **Prelims** to **Finals** anywhere on your mobile device!
+
+---
+
+## Mobile Adaptations
+
+* **POSIX Compliant (`unistd.h`):** Replaced Windows-specific system calls (`windows.h`) with cross-platform timing (`usleep`).
+* **Native ANSI Colors & Formatting:** Retains clean terminal colors across Android terminal environments.r
+
+## How to Run on Android
+
+### Option 1: CxxDroid (Easiest)
+
+1. Download and install **CxxDroid** from the Google Play Store.
+2. Open CxxDroid and create a new file.
+3. Copy the mobile C source code into the editor.
+4. Save the file as `main.c`.
+5. Tap the yellow **Play (Run)** button at the bottom right corner to launch.
+
+---
+
+### Option 2: Termux (Terminal Emulator)
+
+1. Open **Termux** and install GCC:
+   ```bash
+   pkg update && pkg install gcc
+
 ### Usage & Progression
 1. Modules 1–4: Study lesson notes and solve fill-in-the-blank / output challenges.
 2. Module 5 (Exam Mode): Answer all questions. Score $\ge 80\%$ to unlock the Finale.
