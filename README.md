@@ -26,7 +26,7 @@ A feature-rich, console-based terminal application written in standard C (C99) d
 ##  Quick Start (Executable)
 
 If you just want to run the application immediately without compiling:
-1. Download `C_Study_Guide.exe` directly from the repository files (or the [Releases](../../releases) tab).
+1. Download `Comprog 11 Study Guide ver1.0.0(release).exe` directly from the repository files (or the [Releases](../../releases) tab).
 2. Double-click the `.exe` file on Windows to run it!
 
 ---
@@ -53,7 +53,7 @@ If you just want to run the application immediately without compiling:
 4. Open a new terminal inside VS Code (**Terminal > New Terminal** or `Ctrl + ~`).
 5. Compile the program using GCC:
    ```bash
-   gcc -std=c99 main.c -o C_Study_Guide.exe
+   gcc -std=c99 main.c -o Comprog 11 Study Guide ver1.0.0(release).exe
    ```
 
 # Interactive C Study Guide & Evaluator (Mobile / CxxDroid Edition)
